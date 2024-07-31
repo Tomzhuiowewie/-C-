@@ -179,6 +179,13 @@
     <ClCompile Include="49 2 跳转语句-goto语句.cpp" />
     <ClCompile Include="51 数组-一维数组.cpp" />
     <ClCompile Include="52 一维数组-数组名.cpp" />
+    <ClCompile Include="53 一维数组案例-五只小猪称体重.cpp" />
+    <ClCompile Include="54 一维数组-数组元素逆置.cpp" />
+    <ClCompile Include="55 一维数组-冒泡排序.cpp" />
+    <ClCompile Include="56 二维数组.cpp" />
+    <ClCompile Include="57 二维数组-数组名.cpp" />
+    <ClCompile Include="58 二维数据-考试成绩统计.cpp" />
+    <ClCompile Include="61 函数.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="00 笔记.md" />
